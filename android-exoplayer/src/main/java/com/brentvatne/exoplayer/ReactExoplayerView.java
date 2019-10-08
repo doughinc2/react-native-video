@@ -2,6 +2,7 @@ package com.brentvatne.exoplayer;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.content.pm.ActivityInfo;
 import android.content.Context;
 import android.media.AudioManager;
 import android.net.Uri;
